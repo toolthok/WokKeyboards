@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WokKeyboards</string>
+    <string name="settings_title">WokKeyboards Settings</string>
+    <string name="padding_label">Extra bottom padding (agar tidak tertutup tombol navigasi)</string>
+    <string name="padding_value_format">%1$d dp</string>
+    <string name="compact_mode_label">Compact mode (keyboard lebih pendek)</string>
+    <string name="settings_hint">Setelan ini otomatis diterapkan saat keyboard dibuka lagi.</string>
+    <string name="setup_instructions">Aktifkan WokKeyboards di pengaturan sistem, lalu pilih sebagai keyboard aktif.</string>
+    <string name="enable_keyboard_button">Aktifkan Keyboard</string>
+    <string name="open_settings_button">Pengaturan WokKeyboards</string>
+</resources>
