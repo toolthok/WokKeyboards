@@ -1,0 +1,2 @@
+rootProject.name = "WokKeyboards"
+include ':app'
